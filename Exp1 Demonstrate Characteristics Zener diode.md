@@ -41,10 +41,10 @@ Reverse Resistance RR = ΔVR / ΔIR (Ω)
 <img width="575" height="336" alt="image" src="https://github.com/user-attachments/assets/9d240373-37b1-4ef2-be60-6005ff1770be" />
 
 # GRAPH:
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/340672dd-acf5-42a5-9693-cc6ff73fd92b" />
 
-# RESULT:
 <img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/f95f749f-96b1-414a-b76f-08c843d0b565" />
+# RESULT:
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/340672dd-acf5-42a5-9693-cc6ff73fd92b" />
 
 
 
